@@ -1,6 +1,6 @@
 # Python Projects
 
-# 1.Customer Churn Analysis-Python.ipynb
+# 1.Customer Churn Analysis
 * Analysis of Employment reliability of employees in the telecom industry:-
 * Used Customer Churn data set for Data Cleaning, Data Analysis, Data Visualization to understand the data.
 * Implemented different algorithms like linear regression, Logistic regression, Decision Tree, Random forest, k- nearest neighbor.
